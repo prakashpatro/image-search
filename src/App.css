@@ -1,0 +1,38 @@
+body{
+  background-color: black;
+}
+
+
+/* @media only screen and (max-width : 560px){
+  #box{
+  background:'black';
+  color:'white';
+  width:"30vw";
+  margin-left:"33vw";
+  margin-top:"5vh";
+  padding-top:'20px';
+  padding-left:"5vw";
+  font-size:"3vh";
+  border-top-style:"hidden";
+  border-right-style:"hidden";
+  border-left-style:"hidden";
+  outline:"none";
+  border-bottom-style:"groove";
+}}
+
+@media only screen and (max-width : 1900px){
+  #box{
+  background:'black';
+  color:'white';
+  width:"30vw";
+  margin-left:"30vw";
+  margin-top:"2vh";
+  padding-top:'20px';
+  padding-left:"5vw";
+  font-size:"3vh";
+  border-top-style:"hidden";
+  border-right-style:"hidden";
+  border-left-style:"hidden";
+  outline:"none";
+  border-bottom-style:"groove";
+}} */
